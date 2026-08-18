@@ -1,0 +1,7 @@
+project_id = "bmtmyjxnixujqvoltzia"
+
+[functions.job-search]
+verify_jwt = true
+
+[functions.delete-user]
+verify_jwt = true
